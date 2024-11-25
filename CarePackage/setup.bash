@@ -1,4 +1,5 @@
 sudo apt-get -y update; sudo apt-get -y upgrade;
+sudo apt-get -y install htop;
 sudo apt-get -y install openssh-server;
 sudo apt-get -y install smbd;
 sudo apt-get -y install ffmpeg;
